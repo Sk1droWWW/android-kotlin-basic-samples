@@ -1,0 +1,9 @@
+[submodule "basics-intents-words-app-starter"]
+	path = basics-intents-words-app-starter
+	url = https://github.com/Sk1droWWW/basics-intents-words-app-starter.git
+[submodule "basics-logs-dessert-clicker-app"]
+	path = basics-logs-dessert-clicker-app
+	url = https://github.com/Sk1droWWW/basics-logs-dessert-clicker-app.git
+[submodule "basics-navcomponent-cupcake-app"]
+	path = basics-navcomponent-cupcake-app
+	url = https://github.com/Sk1droWWW/basics-navcomponent-cupcake-app.git
